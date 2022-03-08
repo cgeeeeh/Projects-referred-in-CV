@@ -1,1 +1,2 @@
-# Projects-referred-in-CV
+# 此处有本人CV中涉及到的课程代码，部分实习代码
+##升学决策模型
